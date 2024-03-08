@@ -3,7 +3,7 @@
 <p align="center">
   <img src="banner-gith.png.png">
 
-# Alexandre Melo
+# Cirurgião-Dentista | Estudante Data Science
 <sub>Data Science student</sub>
 
 Cirurgião-Dentista.
