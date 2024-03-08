@@ -8,6 +8,7 @@
 <sub>Data Science student</sub>
 
 Cirurgão-Dentista há 22 anos.
+
 Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíticas e minha atenção aos detalhes. Nos próximos anos, estarei compartilhando alguns projetos e concluindo meu curso.
 
 **Background in:** Python.
