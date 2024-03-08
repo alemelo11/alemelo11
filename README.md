@@ -6,11 +6,11 @@
 # Alexandre Melo
 <sub>Data Science student</sub>
 
-Cirurgião-Dentista há 22 anos.
+Cirurgião-Dentista.
 
 Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíticas e minha atenção aos detalhes. Nos próximos anos, estarei compartilhando alguns projetos e concluindo meu curso.
 
-**Background in:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+**Background in:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-365/) 
 
 **Links:**
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemelo11//recent-activity/all/)
