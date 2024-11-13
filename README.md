@@ -4,7 +4,7 @@
   <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png" width="90%">
 </p>
 
-### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Estudante Data Science🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
+### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;e Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
 
 
 
