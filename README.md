@@ -1,9 +1,9 @@
-Data Scientist student | Machine Learning | AI
-
 <p align="center">
-  <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png">
+  <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png" width="90%">
+</p>
 
-# Cirurgião-Dentista | Estudante Data Science
+# Cirurgião-Dentista | Estudante Data Science | AI 👩‍🚀
+
 <sub>Data Science student</sub>
 
 Cirurgião-Dentista.
