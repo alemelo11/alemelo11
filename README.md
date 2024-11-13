@@ -1,7 +1,4 @@
-[![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alemelo11/data_science/issues) 
-[![Python](https://img.shields.io/badge/Python-3.12.2+-blue.svg)](https://www.python.org/downloads/release/python-365/)
-
+Data Scientist student | Machine Learning | AI
 
 <p align="center">
   <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png">
