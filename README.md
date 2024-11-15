@@ -20,7 +20,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 
  **Links:**
   * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&width=120&height=40)](https://www.linkedin.com/in/alemelo11)
-  * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&width=120&height=40)](https://www.linkedin.com/in/alemelo11/)
+  * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&width=120&height=40)](https://www.instagram.com/ale.melo11/)
   * [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40)](https://medium.com/@alemelo11/)
 
 
