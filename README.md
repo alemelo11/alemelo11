@@ -17,11 +17,11 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 **Background in:** 
  * [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&width=120&height=40)](https://www.python.org/downloads/release/python-365/)
 
-
 **Links:**
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&width=120&height=40)](https://www.linkedin.com/)
-* [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40)](https://medium.com/)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&width=120&height=40)](https://www.instagram.com/)
+* [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40)](https://medium.com/)
+
 
 
 ## Projetos:
