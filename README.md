@@ -11,16 +11,17 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 
 
 <div style="text-align: left;">
-  <a href="https://www.linkedin.com/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/alemelo11/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&width=120&height=40" alt="LinkedIn" style="border: none;">
   </a>
-  <a href="https://www.instagram.com/" style="text-decoration:none;">
+  <a href="https://www.instagram.com/ale.melo11/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&width=120&height=40" alt="Instagram" style="border: none;">
   </a>
-  <a href="https://medium.com/" style="text-decoration:none;">
+  <a href="https://medium.com/@alemelo11" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40" alt="Medium" style="border: none;">
   </a>
 </div>
+
 
 <div style="max-width: 800px; margin: 20px auto;">
   <picture>
