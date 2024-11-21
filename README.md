@@ -23,7 +23,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 
 
 
-## Projetos:
+## Projects:
 
 * **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
 * **[Airbnb Boston](https://bit.ly/3CP081e)**
