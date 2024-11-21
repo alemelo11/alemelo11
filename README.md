@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
 
   ### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
-
+</div>
 
 I’m a dedicated ***Dentist*** with a passion for continuous learning and technological innovation. While I excel in oral health care, my curiosity has led me to dive into the world of ***Data Science***, where I explore insights from data to drive impactful solutions.
 
 Currently, I am advancing my skills as a ***Python student*** and honing my knowledge in ***Artificial Intelligence***. I believe that merging healthcare expertise with AI and data science opens up incredible opportunities to revolutionize industries and improve lives. Let's connect and build the future together!
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alemelo11/" style="text-decoration:none;">
