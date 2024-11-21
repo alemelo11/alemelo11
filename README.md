@@ -3,6 +3,9 @@
 ### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
 
 
+Hello! 👋 I’m a dedicated **dentist** with a passion for continuous learning and technological innovation. While I excel in oral health care 🦷, my curiosity has led me to dive into the world of **data science** 🎓, where I explore insights from data to drive impactful solutions.  
+
+Currently, I am advancing my skills as a **Python student** 🐍 and honing my knowledge in **artificial intelligence** 👩‍🚀. I believe that merging healthcare expertise with AI and data science opens up incredible opportunities to revolutionize industries and improve lives. Let's connect and build the future together!
 
 <div style="text-align: left;">
   <a href="https://www.linkedin.com/" style="text-decoration:none;">
