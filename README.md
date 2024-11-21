@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
-</div>
+
 
 
 ### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
@@ -24,7 +24,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40" alt="Medium" style="border: none;">
   </a>
 </div>
-
+</div>
 
 <div style="max-width: 800px; margin: 20px auto;">
   <picture>
