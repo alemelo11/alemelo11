@@ -7,7 +7,8 @@
 ### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
 
 
-<br> ![Snake animation](https://raw.githubusercontent.com/alemelo11/alemelo11/main/github-contribution-grid-snake.svg) </br>
+<br> ![Snake animation](https://raw.githubusercontent.com/alemelo11/snk/main/github-contribution-grid-snake.svg) </br>
+
 
 
 
