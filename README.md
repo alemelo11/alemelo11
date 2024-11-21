@@ -5,9 +5,10 @@
 [![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11)
 
 ### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
-<sub>Data Science student</sub>
+
 
 <br> ![Snake animation](https://raw.githubusercontent.com/alemelo11/alemelo11/main/github-contribution-grid-snake.svg) </br>
+
 
 
 **Background:** 
