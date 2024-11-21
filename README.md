@@ -34,5 +34,5 @@
 
 ## Projetos:
 
-* **[Airbnb Munich](https://bit.ly/3AGQs8F):** Análise detalhada dos dados de locação de curto prazo em Munique.  
-* **[Airbnb Boston](https://bit.ly/3CP081e):** Insights sobre a dinâmica de preços e tendências de Boston.
+* ***[Airbnb Munich](https://bit.ly/3AGQs8F):*** 
+* ***[Airbnb Boston](https://bit.ly/3CP081e):*** 
