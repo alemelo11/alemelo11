@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
 
-### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
+### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
 
-Dentist, Data Science, and Python language student.
+
 
 <div style="text-align: left;">
   <a href="https://www.linkedin.com/" style="text-decoration:none;">
