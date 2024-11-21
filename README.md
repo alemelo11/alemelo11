@@ -21,6 +21,13 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
   </a>
 </div>
 
+
+
+## Projetos:
+
+* **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
+* **[Airbnb Boston](https://bit.ly/3CP081e)**
+
 <div align="center" style="max-width: 800px; margin: 20px auto;">
   <picture>
     <source
@@ -39,8 +46,3 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
   </picture>
 </div>
 
-
-## Projetos:
-
-* **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
-* **[Airbnb Boston](https://bit.ly/3CP081e)** 
