@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
+</div>
+
 
 ### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
 
