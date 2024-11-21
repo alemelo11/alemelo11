@@ -5,7 +5,7 @@
 
 ### Dentist🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python Student🐍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI Appreciation👩‍🚀 
 
-
+</div>
 
 
 I’m a dedicated ***Dentist*** with a passion for continuous learning and technological innovation. While I excel in oral health care, my curiosity has led me to dive into the world of ***Data Science***, where I explore insights from data to drive impactful solutions.
@@ -24,7 +24,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40" alt="Medium" style="border: none;">
   </a>
 </div>
-</div>
+
 
 <div style="max-width: 800px; margin: 20px auto;">
   <picture>
