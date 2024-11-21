@@ -34,5 +34,5 @@
 
 ## Projetos:
 
-* ***[Airbnb Munich](https://bit.ly/3AGQs8F):*** 
-* ***[Airbnb Boston](https://bit.ly/3CP081e):*** 
+* **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
+* **[Airbnb Boston](https://bit.ly/3CP081e)** 
