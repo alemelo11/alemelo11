@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/assets/black_banner.png" alt="Banner" width="700"/>
+<img src="https://raw.githubusercontent.com/alemelo11/alemelo11/main/black_banner.png" alt="Banner" width="700"/>
 
 
 [![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11)
