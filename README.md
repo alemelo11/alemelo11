@@ -22,6 +22,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 </div>
 
 
+<tag>
 ## Projects:
 
 ### Data Science
@@ -33,6 +34,10 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
   * **[Lesões Brancas](https://bit.ly/4gKXQir)**
   * **[Lesões Erosivas](https://bit.ly/3BEC6WG)**
   * **[Lesões Proliferativas](https://bit.ly/4iEwNXU)**
+  * **[Lesões Ulceradas Agudas](https://bit.ly/3Dvcts3)**
+  * **[Lesões Ulceradas Crônicas](https://bit.ly/49NBElH)**
+  * **[Lesões Vesicobolhosas](https://bit.ly/3Bwxhy)**
+
 
 
 
