@@ -28,6 +28,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 ### Data Science
 * **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
 * **[Airbnb Boston](https://bit.ly/3CP081e)**
+* **[Crew AI - Agentes Múltiplos para Busca, Escrita e Edição de Artigos](https://bit.ly/3W2qXpw)**
 
 ### Odontologia
 * **Estomatologia**
