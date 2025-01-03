@@ -23,7 +23,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 
 
 <tag>
-## Projects:
+ Projects:
 
 ### CrewAI
 * **[Crew AI - Agentes Múltiplos para Busca, Escrita e Edição de Artigos](https://bit.ly/3Pje6M3)**
