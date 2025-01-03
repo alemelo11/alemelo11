@@ -25,10 +25,13 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 <tag>
 ## Projects:
 
+### CrewAI
+* **[Crew AI - Agentes Múltiplos para Busca, Escrita e Edição de Artigos](https://bit.ly/3Pje6M3)**
+*  **[Crew AI - notebooks/crewai_Pesquisa_e_Escrita_Blog.ipynb]**
+
 ### Data Science
 * **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
 * **[Airbnb Boston](https://bit.ly/3CP081e)**
-* **[Crew AI - Agentes Múltiplos para Busca, Escrita e Edição de Artigos](https://bit.ly/3Pje6M3)**
 
 ### Odontologia
 * **Estomatologia**
@@ -38,7 +41,6 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
   * **[Lesões Ulceradas Agudas](https://bit.ly/3Dvcts3)**
   * **[Lesões Ulceradas Crônicas](https://bit.ly/49NBElH)**
   * **[Lesões Vesicobolhosas](https://bit.ly/3Bwxhy)**
-
 
 
 
