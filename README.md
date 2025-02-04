@@ -25,9 +25,6 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 
 ## 🗂️***Projects:***
 
-### CrewAI
-* **[Crew AI - Agentes Múltiplos para Busca, Escrita e Edição de Artigos](https://bit.ly/3Pje6M3)**
-* **[CrewAI - Pesquisa e Escrita Blog](https://bit.ly/4034p9r)**
 
 ### Data Science
 * **[Airbnb Munich](https://bit.ly/3AGQs8F)** 
