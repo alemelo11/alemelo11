@@ -38,6 +38,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
   * **[Lesões Ulceradas Agudas](https://bit.ly/3Dvcts3)**
   * **[Lesões Ulceradas Crônicas](https://bit.ly/49NBElH)**
   * **[Lesões Vesicobolhosas](https://bit.ly/3Bwxhy)**
+  * **[Lesões Pigmentadas](https://bit.ly/3Eax8Ca)**
 
 
 
