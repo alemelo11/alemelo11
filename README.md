@@ -31,7 +31,7 @@ Currently, I am advancing my skills as a ***Python student*** and honing my know
 * **[Airbnb Boston](https://bit.ly/3CP081e)**
 
 ### Odontologia
-* **Fluxograma - Estomatologia**
+* **Fluxogramas - Estomatologia**
   * **[Lesões Brancas](https://bit.ly/4gKXQir)**
   * **[Lesões Erosivas](https://bit.ly/3BEC6WG)**
   * **[Lesões Proliferativas](https://bit.ly/4iEwNXU)**
